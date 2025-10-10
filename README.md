@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <!-- Replace the image below with your own glassmorphic banner for a more personal touch -->
-  <img src="https://github.com/AnseedX/AnseedX/assets/glasstop-banner.png" width="80%" style="border-radius: 18px; box-shadow: 0 8px 32px rgba(0,0,0,0.2);" alt="Glassmorphism Banner"/>
+  <!-- Use the raw.githubusercontent URL — make sure the file exists at assets/glasstop-banner.png on branch main -->
+  
 </p>
 
 ---
@@ -76,11 +76,12 @@ I’m **Mohamed Ansaff Abdul Salam**, a deep learning enthusiast and computer vi
 
 ## 🎯 Fun Facts & Motto
 
-- ♟️ FIDE-rated chess player (Arena Candidate Master, 2025)
-- 🏆 Former Provincial Chess Champion, Sri Lanka
+- ♟️ FIDE-rated chess player (Arena Candidate Master, 2025)  
+- 🏆 Former Provincial Chess Champion, Sri Lanka  
 - 🤖 Loves merging **AI research** and **strategic problem-solving**—in both coding and chess  
 - 💡 **Motto:** _“Build systems that don’t just see — but truly understand.”_
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnseedX/AnseedX/main/chess-animated.svg" height="60" alt="chess animation"/>
+  <!-- Use a GIF for the chess animation. Make sure the file exists at assets/chess-animated.gif -->
+  <img src="https://raw.githubusercontent.com/AnseedX/AnseedX/main/assets/chess-animated.gif" height="60" alt="chess animation"/>
 </p>
