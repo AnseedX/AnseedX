@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <!-- Use the raw.githubusercontent URL — make sure the file exists at assets/glasstop-banner.png on branch main -->
-  
+
 </p>
 
 ---
@@ -20,13 +19,14 @@ I’m a Computer Vision enthusiast and data science student passionate about **D
 ## 🧠 Top Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,sql,r,pytorch,tensorflow,keras,opencv,sklearn,git,kaggle,vscode,jupyter,firebase&perline=8" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,sql,r,pytorch,tensorflow,keras,opencv,sklearn,git,kaggle,vscode,gcp,firebase,jupyter&perline=15" alt="skills" />
 </p>
 
 - **Languages:** Python, C, Java, SQL, R  
 - **AI & ML:** Deep Learning, Computer Vision, Domain Generalization, Generative Models (GANs, Diffusion)  
 - **Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV  
-- **Tools:** Git, Kaggle, Google Colab, Jupyter, VS Code, Firebase  
+- **Tools:** Git, Kaggle, Google Colab, Jupyter, VS Code, Google Cloud Platform (GCP), Firebase  
+- **Cloud:** Google Cloud Platform (GCP): Vertex AI, Compute Engine, Cloud Storage, BigQuery  
 - **Core Strengths:** Research Writing, Model Deployment, Frequency-Domain Features, Vision Transformers
 
 ---
@@ -82,6 +82,5 @@ I’m **Mohamed Ansaff Abdul Salam**, a deep learning enthusiast and computer vi
 - 💡 **Motto:** _“Build systems that don’t just see — but truly understand.”_
 
 <p align="center">
-  <!-- Use a GIF for the chess animation. Make sure the file exists at assets/chess-animated.gif -->
   <img src="https://raw.githubusercontent.com/AnseedX/AnseedX/main/assets/chess-animated.gif" height="60" alt="chess animation"/>
 </p>
