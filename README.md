@@ -1,6 +1,6 @@
 <!-- Apple Glassmorphism Inspired Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&pause=1000&color=FF6700&center=true&vCenter=true&width=700&lines=Hi%2C+I%E2%80%99m+AnseedX+%7C+Computer+Vision+Enthusiast;Deep+Learning+%7C+Computer+Vision+%7C+Model+Robustness;Designing+Intelligent+Vision+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&pause=1000&color=FF6700&center=true&vCenter=true&width=700&lines=Hi%2C+I%E2%80%99m+Ansaff+%7C+Computer+Vision+Enthusiast;Deep+Learning+%7C+Computer+Vision+%7C+Model+Robustness;Designing+Intelligent+Vision+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
