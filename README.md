@@ -13,7 +13,7 @@
 # 👋 Mohamed Ansaff Abdul Salam (AnseedX)
 ### Computer Vision Enthusiast & Data Science Student
 
-I’m a Computer Vision enthusiast and data science student passionate about **Deep Learning**, **Computer Vision**, and **Model Robustness**. My mission: to build intelligent vision systems for real-world problems—especially using **Vision Transformers (ViTs)**, **YOLO-based detection**, and **frequency-domain feature fusion** for tasks like deepfake detection and healthcare monitoring.
+I’m a Computer Vision enthusiast and data science student passionate about **Deep Learning**, **Computer Vision**, and **Model Robustness**. My mission: to build intelligent vision systems for real-world problems & especially using **Vision Transformers (ViTs)**, **YOLO-based detection**, and **frequency-domain feature fusion** for tasks like deepfake detection and healthcare monitoring.
 
 ---
 
