@@ -43,7 +43,7 @@ I’m a Computer Vision enthusiast and data science student passionate about **D
 
 ## 🧍 About Me
 
-I’m **Mohamed Ansaff Abdul Salam**, a deep learning enthusiast and computer vision explorer. I focus on making vision models more generalizable and interpretable—especially for *deepfake detection* and *biomedical AI*. I’m committed to real-world AI innovation and am preparing for the **2026 Microsoft Imagine Cup**.
+I’m **Mohamed Ansaff Abdul Salam**, a deep learning enthusiast and computer vision explorer. I focus on making vision models more generalizable and interpretable—especially for *deepfake detection* and *biomedical AI*. I’m committed to real-world AI innovation.
 
 ---
 
