@@ -33,6 +33,9 @@ I’m a Computer Vision enthusiast and data science student passionate about **D
 
 ## 🚀 Flagship Projects
 
+- [**GeoForget**]([https://github.com/AnseedX/GeoForget])  
+  A Riemannian framework for safe machine unlearning. Uses the Fisher-Rao metric to guide parameters along the "safe" data manifold, strictly preserving utility on remaining data while surgically erasing target classes via adversarial optimization. Superior to Euclidean L2 baselines
+
 - [**RealEye: Deepfake Image Detection**](https://github.com/AnseedX/RealEye)  
   Hybrid ViT-based deepfake detector fusing DCT frequency features and RGB, trained on 200K+ images from six datasets.
 
