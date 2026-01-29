@@ -36,7 +36,7 @@ I’m a Computer Vision enthusiast and data science student passionate about **D
 - [**GeoForget**](https://github.com/AnseedX/GeoForget)  
   A Riemannian framework for safe machine unlearning. Uses the Fisher-Rao metric to guide parameters along the "safe" data manifold, strictly preserving utility on remaining data while surgically erasing target classes via adversarial optimization. Superior to Euclidean L2 baselines
   
-- [**Handwriting Recognition with Angular Diversity**]([https://github.com/AnseedX/YoLoFish](https://github.com/AnseedX/Handwriting-Recognition-with-Angular-Diversity))  
+- [**Handwriting Recognition with Angular Diversity**]([https://github.com/AnseedX/YoLoFish](https://github.com/AnseedX/Handwriting-Recognition-with-Angular-Diversity)  
   A high-accuracy, CPU-optimized Offline Handwriting Recognition system designed for Windows. This project introduces Angular Diversity Regularizationto solve fine-grained character confusion in a resource-constrained environment.
 
 - [**RealEye: Deepfake Image Detection**](https://github.com/AnseedX/RealEye)  
