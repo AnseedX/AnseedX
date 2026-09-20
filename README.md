@@ -105,10 +105,6 @@ mindset:  "Build systems that scale, ship, and solve real problems."
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnseedX&theme=minimal&bg_color=ffffff&color=FF6700&line=FF6700&point=333333&hide_border=true&area=true" width="95%" alt="activity graph"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnseedX&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7&title=Commit,Stars,Followers,Repositories,PullRequest,Issues&title_color=FF6700" alt="trophies" />
 </p>
 
