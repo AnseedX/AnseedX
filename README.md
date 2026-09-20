@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6700,100:FF9E00&height=200&section=header&text=Mohamed%20Ansaff&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Cloud%20Engineer%20%C2%B7%20Software%20Engineer&descAlignY=60&descSize=20" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6700,100:FF9E00&height=200&section=header&text=Mohamed%20Ansaff&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Cloud%20Background&descAlignY=60&descSize=20" width="100%" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&pause=1000&color=FF6700&center=true&vCenter=true&width=760&lines=Cloud+Engineering+%7C+Software+Engineering;Building+scalable%2C+reliable+systems;Turning+ideas+into+deployable+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&pause=1000&color=FF6700&center=true&vCenter=true&width=760&lines=AI+Engineer+with+a+Cloud+Background;From+model+to+production+on+the+cloud;Building+%26+deploying+intelligent+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,15 +21,15 @@
 
 ```yaml
 name:     Mohamed Ansaff Abdul Salam
-role:     Cloud Engineer · Software Engineer
-focus:    [ cloud architecture, scalable software, applied machine learning ]
+role:     AI Engineer  (Cloud & Software background)
+focus:    [ machine learning, model deployment & MLOps, cloud engineering ]
 based_in: Sri Lanka
 mindset:  "Build systems that scale, ship, and solve real problems."
 ```
 
-> I design and build **end-to-end software** — from cloud infrastructure and scalable services to
-> production-ready applications. I care about clean architecture, developer experience, and shipping
-> things people actually use. Machine learning is one of the tools I bring to the table, not the whole story.
+> I build and deploy **AI systems end to end** — from training models to shipping them into production,
+> backed by a strong **cloud and software engineering** foundation (GCP). I care about clean architecture,
+> reliable deployment, and turning machine learning into products people actually use.
 
 ---
 
@@ -41,18 +41,18 @@ mindset:  "Build systems that scale, ship, and solve real problems."
     <td><img src="https://skillicons.dev/icons?i=python,java,c,sql,r&perline=6" alt="languages"/></td>
   </tr>
   <tr>
-    <td align="center"><b>Cloud &amp; DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=gcp,firebase,linux,bash,git,vscode&perline=6" alt="cloud"/></td>
-  </tr>
-  <tr>
     <td align="center"><b>AI &amp; ML</b></td>
     <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv&perline=6" alt="ai"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=gcp,firebase,linux,bash,git,vscode&perline=6" alt="cloud"/></td>
   </tr>
 </table>
 
 <p align="center">
-  <sub><b>Cloud:</b> GCP (Vertex AI · Compute Engine · Cloud Storage · BigQuery) · Firebase &nbsp;|&nbsp;
-  <b>Engineering:</b> API &amp; CLI design · system design · automation · testing</sub>
+  <sub><b>AI/ML:</b> Deep Learning · Computer Vision · Generative Models · Model Deployment &amp; MLOps &nbsp;|&nbsp;
+  <b>Cloud:</b> GCP (Vertex AI · Compute Engine · Cloud Storage · BigQuery) · Firebase</sub>
 </p>
 
 ---
