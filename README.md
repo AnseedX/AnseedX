@@ -93,9 +93,9 @@ mindset:  "Build systems that scale, ship, and solve real problems."
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/AnseedX/GeoForget">🧭 GeoForget</a></h3>
-      A Riemannian framework for <b>safe machine unlearning</b>. Uses the Fisher-Rao metric to erase
-      target classes while preserving utility on the rest — outperforming Euclidean L2 baselines.
+      <h3><a href="https://github.com/AnseedX/YoLoFish">♟️ YoLoFish</a></h3>
+      A real-time <b>YOLOv8</b> chess-piece detector that reconstructs FEN from live board images and
+      integrates <b>Stockfish</b> to suggest best moves — an end-to-end computer-vision system.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AnseedX/Handwriting-Recognition-with-Angular-Diversity">✍️ Handwriting Recognition</a></h3>
