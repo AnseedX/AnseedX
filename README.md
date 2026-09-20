@@ -73,33 +73,37 @@ mindset:  "Build systems that scale, ship, and solve real problems."
       <h3><a href="https://github.com/AnseedX/milo">🐈‍⬛ milo</a></h3>
       An offline-first, <b>cross-platform agentic coding CLI</b> for local LLMs (LM Studio / Ollama / vLLM).
       One-command installers, a multi-layer safety sandbox, automatic GPU lifecycle management, and a
-      polished terminal UI — software engineering + applied AI, end to end.
+      polished terminal UI — <b>GenAI + software engineering</b>, end to end.
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AnseedX/RealEye">👁️ RealEye</a></h3>
+      A frequency-augmented <b>Vision Transformer</b> (ViT-B/16) that fuses RGB + DCT features to detect
+      GAN/diffusion deepfakes. Trained on <b>200K+ images</b> — a robust, explainable ML pipeline.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AnseedX/Sentiment-Analysis">🧠 Mental-Health Sentiment Analysis</a></h3>
+      An <b>NLP</b> pipeline that classifies mental-health signals from text — data processing, model
+      training, and evaluation for real-world language understanding.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AnseedX/ICU-Patient-Posture-Monitoring-App-TAi-">🩺 ThermalVision AI</a></h3>
+      An <b>applied-AI healthcare app</b> that analyzes ICU patient posture from thermal images/video,
+      giving nurses real-time safety alerts — AI delivered as a usable product.
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AnseedX/GeoForget">🧭 GeoForget</a></h3>
       A Riemannian framework for <b>safe machine unlearning</b>. Uses the Fisher-Rao metric to erase
       target classes while preserving utility on the rest — outperforming Euclidean L2 baselines.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/AnseedX/RealEye">👁️ RealEye</a></h3>
-      A hybrid ViT deepfake detection system fusing DCT frequency features and RGB, trained on
-      <b>200K+ images</b> across six datasets — an end-to-end data &amp; ML pipeline.
-    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AnseedX/Handwriting-Recognition-with-Angular-Diversity">✍️ Handwriting Recognition</a></h3>
-      A high-accuracy, <b>CPU-optimized</b> offline handwriting recognizer for Windows, using Angular
-      Diversity Regularization to resolve fine-grained character confusion.
+      A high-accuracy, <b>CPU-optimized</b> offline recognizer using Angular Diversity Regularization —
+      efficient ML deployment in a resource-constrained environment.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/AnseedX/YoLoFish">♟️ YoLoFish</a></h3>
-      A YOLOv8 chess-piece detector that reconstructs FEN from digital boards and integrates Stockfish
-      to suggest best moves — computer vision meets systems integration.
-    </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -110,10 +114,6 @@ mindset:  "Build systems that scale, ship, and solve real problems."
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnseedX&show_icons=true&theme=transparent&title_color=FF6700&icon_color=FF6700&text_color=333333&hide_border=true" alt="stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnseedX&theme=transparent&hide_border=true&ring=FF6700&fire=FF6700&currStreakLabel=FF6700" alt="streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnseedX&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7&title=Commit,Stars,Followers,Repositories,PullRequest,Issues&title_color=FF6700" alt="trophies" />
 </p>
 
 ---
