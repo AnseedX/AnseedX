@@ -8,8 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnseedX&color=FF6700&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
-  &nbsp;
   <a href="https://linkedin.com/in/mohamed-ansaff-67ba98282"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF6700?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
   <a href="mailto:anxeed2000@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-FF6700?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
@@ -112,7 +110,6 @@ mindset:  "Build systems that scale, ship, and solve real problems."
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnseedX&show_icons=true&theme=transparent&title_color=FF6700&icon_color=FF6700&text_color=333333&hide_border=true" alt="stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnseedX&theme=transparent&hide_border=true&ring=FF6700&fire=FF6700&currStreakLabel=FF6700" alt="streak" height="170"/>
 </p>
 
