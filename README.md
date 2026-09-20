@@ -1,110 +1,125 @@
-<!-- Apple Glassmorphism Inspired Introduction -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&pause=1000&color=FF6700&center=true&vCenter=true&width=760&lines=Hi%2C+I%E2%80%99m+Ansaff+%7C+AI+Solutions+Architect;Cloud+Engineering+%7C+Software+Engineering+%7C+Applied+AI;Designing+%26+Deploying+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6700,100:FF9E00&height=200&section=header&text=Mohamed%20Ansaff&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Cloud%20Engineer%20%C2%B7%20Software%20Engineer&descAlignY=60&descSize=20" width="100%" alt="header"/>
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&pause=1000&color=FF6700&center=true&vCenter=true&width=760&lines=Cloud+Engineering+%7C+Software+Engineering;Building+scalable%2C+reliable+systems;Turning+ideas+into+deployable+solutions" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnseedX&color=FF6700&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+  &nbsp;
+  <a href="https://linkedin.com/in/mohamed-ansaff-67ba98282"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF6700?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:anxeed2000@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-FF6700?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
 </p>
 
 ---
 
-# 👋 Mohamed Ansaff Abdul Salam (AnseedX)
-### AI Solutions Architect · Cloud Engineer · Software Engineer
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-I design and build **end-to-end AI-powered software** — from cloud architecture and scalable
-services to production-ready applications. I enjoy turning ideas into deployable solutions, with a
-focus on **cloud engineering (GCP)**, **software engineering**, and **applied machine learning**.
-I care about clean architecture, developer experience, and shipping things people actually use.
+```yaml
+name:     Mohamed Ansaff Abdul Salam
+role:     Cloud Engineer · Software Engineer
+focus:    [ cloud architecture, scalable software, applied machine learning ]
+based_in: Sri Lanka
+mindset:  "Build systems that scale, ship, and solve real problems."
+```
+
+> I design and build **end-to-end software** — from cloud infrastructure and scalable services to
+> production-ready applications. I care about clean architecture, developer experience, and shipping
+> things people actually use. Machine learning is one of the tools I bring to the table, not the whole story.
 
 ---
 
-## 🧠 Top Skills & Technologies
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,c,sql,r&perline=6" alt="languages"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=gcp,firebase,linux,bash,git,vscode&perline=6" alt="cloud"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI &amp; ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv&perline=6" alt="ai"/></td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,sql,r,gcp,firebase,linux,bash,git,pytorch,tensorflow,keras,sklearn,opencv,vscode&perline=16" alt="skills" />
+  <sub><b>Cloud:</b> GCP (Vertex AI · Compute Engine · Cloud Storage · BigQuery) · Firebase &nbsp;|&nbsp;
+  <b>Engineering:</b> API &amp; CLI design · system design · automation · testing</sub>
 </p>
-
-- **Languages:** Python, Java, C, SQL, R
-- **Cloud & Infrastructure:** Google Cloud Platform (Vertex AI, Compute Engine, Cloud Storage, BigQuery), Firebase
-- **Software Engineering:** API & CLI design, system design, cross-platform apps, automation, testing
-- **DevOps & Tooling:** Git, Linux, Bash, shell scripting, automation
-- **AI & ML:** Deep Learning, Computer Vision, Generative Models (GANs, Diffusion), Model Deployment
-- **Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV
-- **Core Strengths:** Solution Architecture, End-to-End Deployment, Performance Optimization, Technical Writing
 
 ---
 
 ## 🚀 Flagship Projects
 
-- [**milo**](https://github.com/AnseedX/milo)
-  An offline-first, **cross-platform agentic coding CLI** for local LLMs (LM Studio / Ollama / vLLM).
-  One-command installers, a sandboxed multi-layer safety engine, automatic GPU lifecycle management,
-  and a polished terminal UI. A showcase of software engineering + applied AI, end to end.
-
-- [**GeoForget**](https://github.com/AnseedX/GeoForget)
-  A Riemannian framework for safe machine unlearning. Uses the Fisher-Rao metric to guide parameters
-  along the "safe" data manifold, preserving utility on remaining data while surgically erasing target
-  classes via adversarial optimization — outperforming Euclidean L2 baselines.
-
-- [**Handwriting Recognition with Angular Diversity**](https://github.com/AnseedX/Handwriting-Recognition-with-Angular-Diversity)
-  A high-accuracy, **CPU-optimized** offline handwriting recognition system for Windows, introducing
-  Angular Diversity Regularization to resolve fine-grained character confusion in a resource-constrained
-  environment.
-
-- [**RealEye: Deepfake Image Detection**](https://github.com/AnseedX/RealEye)
-  A hybrid ViT-based detection system fusing DCT frequency features and RGB, trained on 200K+ images
-  across six datasets — an end-to-end data and ML pipeline.
-
-- [**YoLoFish — Vision-Powered Chess AI**](https://github.com/AnseedX/YoLoFish)
-  A YOLOv8 chess-piece detector that reconstructs FEN from digital boards and integrates Stockfish to
-  suggest best moves — computer vision meets systems integration.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AnseedX/milo">🐈‍⬛ milo</a></h3>
+      An offline-first, <b>cross-platform agentic coding CLI</b> for local LLMs (LM Studio / Ollama / vLLM).
+      One-command installers, a multi-layer safety sandbox, automatic GPU lifecycle management, and a
+      polished terminal UI — software engineering + applied AI, end to end.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AnseedX/GeoForget">🧭 GeoForget</a></h3>
+      A Riemannian framework for <b>safe machine unlearning</b>. Uses the Fisher-Rao metric to erase
+      target classes while preserving utility on the rest — outperforming Euclidean L2 baselines.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AnseedX/RealEye">👁️ RealEye</a></h3>
+      A hybrid ViT deepfake detection system fusing DCT frequency features and RGB, trained on
+      <b>200K+ images</b> across six datasets — an end-to-end data &amp; ML pipeline.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AnseedX/Handwriting-Recognition-with-Angular-Diversity">✍️ Handwriting Recognition</a></h3>
+      A high-accuracy, <b>CPU-optimized</b> offline handwriting recognizer for Windows, using Angular
+      Diversity Regularization to resolve fine-grained character confusion.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AnseedX/YoLoFish">♟️ YoLoFish</a></h3>
+      A YOLOv8 chess-piece detector that reconstructs FEN from digital boards and integrates Stockfish
+      to suggest best moves — computer vision meets systems integration.
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
-## 🧍 About Me
-
-I’m **Mohamed Ansaff Abdul Salam** — an engineer who enjoys architecting and shipping AI-driven
-solutions across the stack: designing cloud infrastructure, writing clean and reliable software, and
-deploying machine learning into real products. I’m always exploring better ways to build systems that
-are scalable, maintainable, and genuinely useful.
-
----
-
-## 🌐 Connect with Me
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/AnseedX"><img src="https://img.shields.io/badge/GitHub-AnseedX-FF6700?logo=github&style=for-the-badge&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/mohamed-ansaff-67ba98282"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Ansaff%20Abdul%20Salam-FF6700?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:anxeed2000@gmail.com"><img src="https://img.shields.io/badge/Email-anxeed2000@gmail.com-FF6700?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnseedX&show_icons=true&theme=transparent&title_color=FF6700&icon_color=FF6700&text_color=333333&hide_border=true" alt="stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnseedX&theme=transparent&hide_border=true&ring=FF6700&fire=FF6700&currStreakLabel=FF6700" alt="streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnseedX&theme=minimal&bg_color=ffffff&color=FF6700&line=FF6700&point=333333&hide_border=true&area=true" width="95%" alt="activity graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnseedX&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7&title=Commit,Stars,Followers,Repositories,PullRequest,Issues&title_color=FF6700" alt="trophies" />
 </p>
 
 ---
 
-## 🍊 Orange-style Stats
+## 🎯 Beyond Code
+
+- ♟️ FIDE-rated chess player — **Arena Candidate Master (2025)**
+- 🏆 Former **Provincial Chess Champion**, Sri Lanka
+- 🤖 Loves merging **cloud, software, and AI** with strategic problem-solving — in both code and chess
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnseedX&show_icons=true&theme=transparent&title_color=FF6700&icon_color=FF6700&text_color=333333&hide_border=true" alt="AnseedX's GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnseedX&theme=transparent&hide_border=true&ring=FF6700&fire=FF6700&currStreakLabel=FF6700" alt="GitHub Streak" height="180"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnseedX&theme=flat&no-frame=true&no-bg=true&margin-w=10&title=Commit,Stars,Followers,Repositories,PullRequest,Issues&title_color=FF6700" alt="trophies" />
-</p>
-
----
-
-## 🎯 Fun Facts & Motto
-
-- ♟️ FIDE-rated chess player (Arena Candidate Master, 2025)
-- 🏆 Former Provincial Chess Champion, Sri Lanka
-- 🤖 Loves merging **AI, cloud, and software engineering** with strategic problem-solving — in both code and chess
-- 💡 **Motto:** _“Build systems that scale, ship, and solve real problems.”_
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnseedX/AnseedX/main/assets/chess-animated.gif" height="60" alt="chess animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9E00,100:FF6700&height=120&section=footer" width="100%" alt="footer"/>
 </p>
