@@ -1,6 +1,6 @@
 <!-- Apple Glassmorphism Inspired Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&pause=1000&color=FF6700&center=true&vCenter=true&width=700&lines=Hi%2C+I%E2%80%99m+Ansaff+%7C+Computer+Vision+Enthusiast;Deep+Learning+%7C+Computer+Vision+%7C+Model+Robustness;Designing+Intelligent+Vision+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&pause=1000&color=FF6700&center=true&vCenter=true&width=760&lines=Hi%2C+I%E2%80%99m+Ansaff+%7C+AI+Solutions+Architect;Cloud+Engineering+%7C+Software+Engineering+%7C+Applied+AI;Designing+%26+Deploying+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,46 +10,64 @@
 ---
 
 # 👋 Mohamed Ansaff Abdul Salam (AnseedX)
-### Computer Vision Enthusiast & Data Science Student
+### AI Solutions Architect · Cloud Engineer · Software Engineer
 
-I’m a Computer Vision enthusiast and data science student passionate about **Deep Learning**, **Computer Vision**, and **Model Robustness**. My mission: to build intelligent vision systems for real-world problems & especially using **Vision Transformers (ViTs)**, **YOLO-based detection**, and **frequency-domain feature fusion** for tasks like deepfake detection and healthcare monitoring.
+I design and build **end-to-end AI-powered software** — from cloud architecture and scalable
+services to production-ready applications. I enjoy turning ideas into deployable solutions, with a
+focus on **cloud engineering (GCP)**, **software engineering**, and **applied machine learning**.
+I care about clean architecture, developer experience, and shipping things people actually use.
 
 ---
 
 ## 🧠 Top Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,sql,r,pytorch,tensorflow,keras,opencv,sklearn,git,kaggle,vscode,gcp,firebase,jupyter&perline=15" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,sql,r,gcp,firebase,linux,bash,git,pytorch,tensorflow,keras,sklearn,opencv,vscode&perline=16" alt="skills" />
 </p>
 
-- **Languages:** Python, C, Java, SQL, R  
-- **AI & ML:** Deep Learning, Computer Vision, Domain Generalization, Generative Models (GANs, Diffusion)  
-- **Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV  
-- **Tools:** Git, Kaggle, Google Colab, Jupyter, VS Code, Google Cloud Platform (GCP), Firebase  
-- **Cloud:** Google Cloud Platform (GCP): Vertex AI, Compute Engine, Cloud Storage, BigQuery  
-- **Core Strengths:** Research Writing, Model Deployment, Frequency-Domain Features, Vision Transformers
+- **Languages:** Python, Java, C, SQL, R
+- **Cloud & Infrastructure:** Google Cloud Platform (Vertex AI, Compute Engine, Cloud Storage, BigQuery), Firebase
+- **Software Engineering:** API & CLI design, system design, cross-platform apps, automation, testing
+- **DevOps & Tooling:** Git, Linux, Bash, shell scripting, automation
+- **AI & ML:** Deep Learning, Computer Vision, Generative Models (GANs, Diffusion), Model Deployment
+- **Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV
+- **Core Strengths:** Solution Architecture, End-to-End Deployment, Performance Optimization, Technical Writing
 
 ---
 
 ## 🚀 Flagship Projects
 
-- [**GeoForget**](https://github.com/AnseedX/GeoForget)  
-  A Riemannian framework for safe machine unlearning. Uses the Fisher-Rao metric to guide parameters along the "safe" data manifold, strictly preserving utility on remaining data while surgically erasing target classes via adversarial optimization. Superior to Euclidean L2 baselines
-  
-- [**Handwriting Recognition with Angular Diversity**]([https://github.com/AnseedX/YoLoFish](https://github.com/AnseedX/Handwriting-Recognition-with-Angular-Diversity)  
-  A high-accuracy, CPU-optimized Offline Handwriting Recognition system designed for Windows. This project introduces Angular Diversity Regularizationto solve fine-grained character confusion in a resource-constrained environment.
+- [**milo**](https://github.com/AnseedX/milo)
+  An offline-first, **cross-platform agentic coding CLI** for local LLMs (LM Studio / Ollama / vLLM).
+  One-command installers, a sandboxed multi-layer safety engine, automatic GPU lifecycle management,
+  and a polished terminal UI. A showcase of software engineering + applied AI, end to end.
 
-- [**RealEye: Deepfake Image Detection**](https://github.com/AnseedX/RealEye)  
-  Hybrid ViT-based deepfake detector fusing DCT frequency features and RGB, trained on 200K+ images from six datasets.
+- [**GeoForget**](https://github.com/AnseedX/GeoForget)
+  A Riemannian framework for safe machine unlearning. Uses the Fisher-Rao metric to guide parameters
+  along the "safe" data manifold, preserving utility on remaining data while surgically erasing target
+  classes via adversarial optimization — outperforming Euclidean L2 baselines.
 
-- [**YoLoFish — Vision-Powered Chess AI**](https://github.com/AnseedX/YoLoFish)  
-  YOLOv8-based chess piece detector that reconstructs FEN from digital boards and suggests best moves with Stockfish.
+- [**Handwriting Recognition with Angular Diversity**](https://github.com/AnseedX/Handwriting-Recognition-with-Angular-Diversity)
+  A high-accuracy, **CPU-optimized** offline handwriting recognition system for Windows, introducing
+  Angular Diversity Regularization to resolve fine-grained character confusion in a resource-constrained
+  environment.
+
+- [**RealEye: Deepfake Image Detection**](https://github.com/AnseedX/RealEye)
+  A hybrid ViT-based detection system fusing DCT frequency features and RGB, trained on 200K+ images
+  across six datasets — an end-to-end data and ML pipeline.
+
+- [**YoLoFish — Vision-Powered Chess AI**](https://github.com/AnseedX/YoLoFish)
+  A YOLOv8 chess-piece detector that reconstructs FEN from digital boards and integrates Stockfish to
+  suggest best moves — computer vision meets systems integration.
 
 ---
 
 ## 🧍 About Me
 
-I’m **Mohamed Ansaff Abdul Salam**, a deep learning enthusiast and computer vision explorer. I focus on making vision models more generalizable and interpretable—especially for *deepfake detection* and *biomedical AI*. I’m committed to real-world AI innovation.
+I’m **Mohamed Ansaff Abdul Salam** — an engineer who enjoys architecting and shipping AI-driven
+solutions across the stack: designing cloud infrastructure, writing clean and reliable software, and
+deploying machine learning into real products. I’m always exploring better ways to build systems that
+are scalable, maintainable, and genuinely useful.
 
 ---
 
@@ -82,10 +100,10 @@ I’m **Mohamed Ansaff Abdul Salam**, a deep learning enthusiast and computer vi
 
 ## 🎯 Fun Facts & Motto
 
-- ♟️ FIDE-rated chess player (Arena Candidate Master, 2025)  
-- 🏆 Former Provincial Chess Champion, Sri Lanka  
-- 🤖 Loves merging **AI research** and **strategic problem-solving**—in both coding and chess  
-- 💡 **Motto:** _“Build systems that don’t just see — but truly understand.”_
+- ♟️ FIDE-rated chess player (Arena Candidate Master, 2025)
+- 🏆 Former Provincial Chess Champion, Sri Lanka
+- 🤖 Loves merging **AI, cloud, and software engineering** with strategic problem-solving — in both code and chess
+- 💡 **Motto:** _“Build systems that scale, ship, and solve real problems.”_
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnseedX/AnseedX/main/assets/chess-animated.gif" height="60" alt="chess animation"/>
