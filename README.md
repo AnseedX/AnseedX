@@ -45,14 +45,22 @@ mindset:  "Build systems that scale, ship, and solve real problems."
     <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv&perline=6" alt="ai"/></td>
   </tr>
   <tr>
+    <td align="center"><b>LLM / GenAI</b></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Hugging_Face-FF6700?logo=huggingface&logoColor=white&style=for-the-badge" alt="hugging face"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/LangChain-FF6700?logo=langchain&logoColor=white&style=for-the-badge" alt="langchain"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/FastAPI-FF6700?logo=fastapi&logoColor=white&style=for-the-badge" alt="fastapi"/></a>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>Cloud &amp; DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=gcp,firebase,linux,bash,git,vscode&perline=6" alt="cloud"/></td>
+    <td><img src="https://skillicons.dev/icons?i=gcp,firebase,docker,linux,bash,git,vscode&perline=7" alt="cloud"/></td>
   </tr>
 </table>
 
 <p align="center">
-  <sub><b>AI/ML:</b> Deep Learning · Computer Vision · Generative Models · Model Deployment &amp; MLOps &nbsp;|&nbsp;
-  <b>Cloud:</b> GCP (Vertex AI · Compute Engine · Cloud Storage · BigQuery) · Firebase</sub>
+  <sub><b>AI/ML:</b> Deep Learning · Computer Vision · Generative Models · LLMs &amp; RAG · Model Deployment &amp; MLOps &nbsp;|&nbsp;
+  <b>Cloud:</b> GCP (Vertex AI · Compute Engine · Cloud Storage · BigQuery) · Firebase · Docker</sub>
 </p>
 
 ---
